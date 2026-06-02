@@ -1,4 +1,4 @@
-const BASE_URL = 'https://projeto-de-refatoracao-backend.vercel.app/api';
+const BASE_URL = 'https://backend-loja-refatoracao.vercel.app/api';
 
 // ─── UTILITÁRIOS ─────────────────────────────────────────────
 export function formatPrice(value) {
